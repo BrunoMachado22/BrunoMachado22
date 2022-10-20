@@ -1,6 +1,6 @@
 # Olá! Eu sou Bruno :)
 <div align="center">
-  <a href="https://github.com/BrunoMachado22">
+  <a href="https://github.com/knoxx14">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMachado22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
