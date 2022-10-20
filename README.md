@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/knoxx14">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrunoMachado22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMachado22&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=knoxx14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knoxx14&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
